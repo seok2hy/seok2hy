@@ -1,16 +1,17 @@
-## Hi there 👋
+## 안녕하세요. 사용자의 편의성을 추구하는 개발자 현재석. Hand with Fingers Splayed Light Skin Tone 👋
 
-<!--
-**seok2hy/seok2hy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Introduce.
+사용자의 입장에서 생각하고, 편리함을 더하는 UI/UX에 깊은 관심을 가지고 있습니다.  
+작은 디테일에도 신경 쓰며, 더 나은 사용 경험을 위한 고민을 멈추지 않습니다.
 
-Here are some ideas to get you started:
+HTML, CSS, JavaScript 등 웹의 기초부터  
+Jenkins, SVN, GitHub 등의 실무 도구까지 꾸준히 익히며 성장 중입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+앞으로도 기술에 대한 끊임없는 학습과,  
+사용자를 위한 **실용적인 웹 개발자**로 한 걸음씩 나아가겠습니다.
+
+Education.
+2025.02 ~ 스마트웹 응용 프로그래밍 개발자B
+
+Other Experience
+2023.08 ~ 2023.12 SW전문인재양성사업 풀스택개발자양성과정(3기)
