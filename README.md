@@ -1,6 +1,6 @@
 안녕하세요. 사용자의 편의성을 추구하는 개발자 현재석입니다. 👋
 
-[portfolio](http://portfoliojs.dothome.co.kr/)
+👉 [저의 포트폴리오 바로가기](http://portfoliojs.dothome.co.kr/)
 
 ### Introduce.
 ---
